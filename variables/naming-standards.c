@@ -1,11 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main() {
-  
-  int number!;
-  int test value;
-  int 1example;
-  float int;
+int main()
+{  
+  int number;
+  int test_value;
+  int example;
+  float int_;
   printf("Hello World!\n");
-
 }
